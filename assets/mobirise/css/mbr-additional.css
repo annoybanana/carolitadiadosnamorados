@@ -1,0 +1,24 @@
+#ext_menu-1 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-1 .nav-link {
+  font-size: 18px;
+}
+#header4-a H1 {
+  color: #000000;
+}
+#header4-a P {
+  color: #000000;
+}
+#msg-box4-9 .lead P {
+  text-align: left;
+}
+#msg-box4-9 .lead {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
